@@ -78,7 +78,7 @@ export const projects: Project[] = [
     description:
       "React-based task management app with real-time updates, drag-and-drop boards, and data visualization.",
     image: "/projects/taskflow.png",
-    liveUrl: "https://taskflow-seven-eta.vercel.app/",
+    liveUrl: "https://taskflow-kbovahr5g-victorwhitedev-4890s-projects.vercel.app/",
     techStack: ["React", "TypeScript", "Tailwind CSS", "Recharts"],
     category: "modern",
   },
