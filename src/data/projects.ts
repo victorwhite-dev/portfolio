@@ -88,7 +88,7 @@ export const projects: Project[] = [
     description:
       "Node.js REST API with a full documentation site and interactive endpoint explorer built with OpenAPI.",
     image: "/projects/apidocs.png",
-    liveUrl: "https://devapi-docs.vercel.app/",
+    liveUrl: "https://devapi-docs-9elhedgni-victorwhitedev-4890s-projects.vercel.app/",
     techStack: ["Node.js", "Express", "REST API", "JavaScript"],
     category: "modern",
   },
@@ -98,7 +98,7 @@ export const projects: Project[] = [
     description:
       "Personal finance SaaS with budget categories, spending trends, and monthly summary emails via cron jobs.",
     image: "/projects/finance.png",
-    liveUrl: "https://finance-tracker-tau-eight-42.vercel.app/",
+    liveUrl: "https://finance-tracker-e4ik-4v8kqxvsj-victorwhitedev-4890s-projects.vercel.app/",
     techStack: ["React", "Node.js", "PostgreSQL", "TypeScript"],
     category: "modern",
   },
