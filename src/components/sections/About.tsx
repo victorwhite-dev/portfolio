@@ -2,9 +2,9 @@ import { CircleCheck as CheckCircle2 } from "lucide-react"
 
 const highlights = [
   "3+ years building WordPress sites for clients",
-  "Transitioning to React, Node.js & TypeScript",
+  "React, Node.js & TypeScript web apps",
   "Focused on clean code and performance",
-  "Passionate about modern web experiences",
+  "Telegram bots for business automation",
 ]
 
 export function About() {
@@ -26,8 +26,7 @@ export function About() {
                 I started my journey building websites with WordPress, learning the ropes of themes, plugins, and delivering real results for clients.
               </p>
               <p>
-                Over time, I fell in love with the process — the problem-solving, the craft, the moment something clicks into place.
-Now I'm taking it further. I'm actively learning React, Node.js, and TypeScript to build fast, dynamic applications — and creating Telegram bots for automation, bookings, and client communication.
+                Over time, I fell in love with the process — the problem-solving, the craft, the moment something clicks into place. I build with React, Node.js, and TypeScript to create fast, dynamic applications — and Telegram bots for automation, bookings, and client communication.
               </p>
               <p>
                 Every project is a chance to grow, and I bring the same care and precision from my WordPress roots to everything I build.

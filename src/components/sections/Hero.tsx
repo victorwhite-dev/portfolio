@@ -51,7 +51,7 @@ export function Hero() {
 
         {/* Bio */}
         <p className="text-base sm:text-lg text-muted-foreground max-w-2xl mx-auto mb-10 leading-relaxed">
-          I build fast, modern websites — from WordPress to React &amp; Node.js — and create Telegram bots for automation, bookings, and support. Currently expanding my stack and crafting polished digital experiences.
+          I build fast, modern websites — from WordPress customization to React &amp; Node.js web apps — and create Telegram bots for automation, bookings, and support. Every project delivered clean, on time, and ready to scale.
         </p>
 
         {/* CTAs */}
