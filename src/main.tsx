@@ -8,10 +8,10 @@ import PortfolioPage from "./pages/Portfolio.tsx"
 
 // Apply theme before first render to avoid flash
 const stored = localStorage.getItem("portfolio-theme")
-if (stored === "dark") {
-  document.documentElement.classList.add("dark")
-} else {
+if (stored === "light") {
   document.documentElement.classList.remove("dark")
+} else {
+  document.documentElement.classList.add("dark")
 }
 
 createRoot(document.getElementById("root")!).render(

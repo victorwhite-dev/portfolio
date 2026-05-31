@@ -3,7 +3,7 @@ import { Moon, Sun } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 function getInitialDark(): boolean {
-  return localStorage.getItem("portfolio-theme") === "dark"
+  return localStorage.getItem("portfolio-theme") !== "light"
 }
 
 export function ModeToggle() {
